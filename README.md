@@ -5,6 +5,6 @@ Welcome to Imandra Protocol Language VS Code Plugin Repo
 
 This repo contains the vsix file required to run a language server for IDF-Py in VSCode. It is possible to find it on the Visual Studio MarketPlace:
 
-[![](https://storage.googleapis.com/imandra-assets/images/github/vsmp.png)](https://marketplace.visualstudio.com/items?itemName=aestheticintegration.ipl-vscode)
+[![](https://storage.googleapis.com/imandra-assets/images/github/vsmp.png)](https://marketplace.visualstudio.com/items?itemName=aestheticintegration.idfpy-vscode)
 
 Please refer to the [documentation](https://docs.imandra.ai/idf-py/) for IDF-Py
